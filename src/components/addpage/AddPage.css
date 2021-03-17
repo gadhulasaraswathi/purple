@@ -1,0 +1,20 @@
+.form_addpage{
+    position: relative;
+    top: 100px;
+    left: 50px;
+    
+    
+    
+}
+.add_button{
+    position: relative;
+    left: 500px;
+    
+}
+.back_button{
+    position: relative;
+     top:-10px ;
+    left: 1020px;
+
+
+}

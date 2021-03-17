@@ -1,0 +1,21 @@
+ .home_image{
+    position: relative;
+    top: 150px;
+    left: 250px; 
+    
+    
+}
+.container_homepage{
+    position: absolute;
+    top: 60px;
+    left: 145px;
+    width: 100%;
+    height: 100vh;
+   
+}
+.button_homepage{
+    position: relative;
+    top: 200px;
+    left: 550px;
+
+}
